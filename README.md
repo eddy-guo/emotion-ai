@@ -27,9 +27,9 @@ Lastly, it will detect what emotion you are feeling (happy, sad, surprised, etc.
 
 <p align="center"><img src="https://i.imgur.com/FHsCUGU.png" alt="white_text"></p>
 
-If there is no camera linked to your device, the following error message/picture will appear;
+If there is no camera detected on your device, the following error message picture will appear;
 
-<p align="center"><img src="https://i.imgur.com/i17baqQ.png" alt="OBS_error"></p>
+<p align="center"><img src="https://i.imgur.com/i17baqQ.png" width="400" alt="OBS_error"></p>
 
 ## Acknowledgements
 

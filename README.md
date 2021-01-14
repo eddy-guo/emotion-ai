@@ -1,6 +1,6 @@
 # EmotionAI
 
-EmotionAI is a face detection application that uses artificial intelligence and face recognition determines the user's emotions through their webcam in real time.
+EmotionAI is a face detection application that uses artificial intelligence and face recognition, determining the user's emotions through their webcam in real time.
 
 Visit the deployed site here: https://emotionai.vercel.app/
 

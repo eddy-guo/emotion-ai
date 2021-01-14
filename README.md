@@ -27,6 +27,10 @@ Lastly, it will detect what emotion you are feeling (happy, sad, surprised, etc.
 
 <p align="center"><img src="https://i.imgur.com/FHsCUGU.png" alt="white_text"></p>
 
+If there is no camera linked to your device, the following error message/picture will appear;
+
+<p align="center"><img src="https://i.imgur.com/i17baqQ.png" alt="OBS_error"></p>
+
 ## Acknowledgements
 
 - face-api.js library ( https://github.com/justadudewhohacks/face-api.js ), wrapper around TensorFlow (machine-learning library).

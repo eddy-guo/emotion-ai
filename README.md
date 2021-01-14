@@ -23,7 +23,7 @@ The program will first search the webcam screen for your face using its face lan
 
 <p align="center"><img src="https://i.imgur.com/56GJMYo.png" alt="blue_text"></p>
 
-Lastly, it will detect what emotion you are feeling (happy, sad, surprised, etc.) relative to your facial features and display its certainty in its assumptionin decimal form below your face.
+Lastly, it will detect what emotion you are feeling (happy, sad, surprised, etc.) relative to your facial features and display its certainty in its assumption in decimal form below your face.
 
 <p align="center"><img src="https://i.imgur.com/FHsCUGU.png" alt="white_text"></p>
 

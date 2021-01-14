@@ -21,9 +21,11 @@ Look directly at your camera and start making some facial expressions!
 
 The program will first search the webcam screen for your face using its face landmark detection. It then displays its certainty of the higlighted object being a human face in decimal form above your face.
 
-<p align="center"><img src="https://i.imgur.com/8yLBUDZ.png" alt="blue_text"></p>
+<p align="center"><img src="https://i.imgur.com/56GJMYo.png" alt="blue_text"></p>
 
 Lastly, it will detect what emotion you are feeling (happy, sad, surprised, etc.) relative to your facial features and display its certainty in its assumptionin decimal form below your face.
+
+<p align="center"><img src="https://i.imgur.com/FHsCUGU.png" alt="white_text"></p>
 
 ## Acknowledgements
 

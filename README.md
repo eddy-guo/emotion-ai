@@ -4,9 +4,9 @@ EmotionAI is a face detection application that uses artificial intelligence and 
 
 Visit the deployed site here: https://emotionai.vercel.app/
 
-<p><img src="https://i.imgur.com/P8Jjryo.png" alt="emotionai_neutral"></p>
-<p><img src="https://i.imgur.com/pMF5fmx.png" alt="emotionai_happy"></p>
-<p><img src="https://i.imgur.com/42u2B3f.png" alt="emotionai_surprised"></p>
+<p><img src="https://i.imgur.com/P8Jjryo.png" width="500" alt="emotionai_neutral"></p>
+<p><img src="https://i.imgur.com/pMF5fmx.png" width="500" alt="emotionai_happy"></p>
+<p><img src="https://i.imgur.com/42u2B3f.png" width="500" alt="emotionai_surprised"></p>
 
 ## Getting Started
 

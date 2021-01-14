@@ -7,7 +7,7 @@ Visit the deployed site here: https://emotionai.vercel.app/
 <p align="center">
 <img src="https://i.imgur.com/P8Jjryo.png" width="400" alt="emotionai_neutral">
 <img src="https://i.imgur.com/pMF5fmx.png" width="400" alt="emotionai_happy">
-<img src="https://i.imgur.com/42u2B3f.png" width="400" alt="emotionai_surprised">
+<img src="https://i.imgur.com/GFP1FEK.png" width="400" alt="emotionai_surprised">
 <img src="https://i.imgur.com/df0G1YD.png" width="400" alt="emotionai_angry">
 </p>
 
@@ -20,6 +20,8 @@ Once the site loads, a popup should appear asking for access to your webcam (the
 Look directly at your camera and start making some facial expressions!
 
 The program will first search the webcam screen for your face using its face landmark detection. It then displays its certainty of the higlighted object being a human face in decimal form above your face.
+
+<p align="center"><img src="https://i.imgur.com/8yLBUDZ.png" alt="blue_text"></p>
 
 Lastly, it will detect what emotion you are feeling (happy, sad, surprised, etc.) relative to your facial features and display its certainty in its assumptionin decimal form below your face.
 

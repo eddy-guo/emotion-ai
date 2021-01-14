@@ -33,4 +33,4 @@ If there is no camera detected on your device, the following error message pictu
 
 ## Acknowledgements
 
-- face-api.js library ( https://github.com/justadudewhohacks/face-api.js ), wrapper around TensorFlow (machine-learning library).
+- face-api.js library ( https://github.com/justadudewhohacks/face-api.js ) for face-api.min.js file, a wrapper around TensorFlow (machine-learning library).
